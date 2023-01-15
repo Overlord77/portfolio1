@@ -1,0 +1,87 @@
+header {
+    padding: 30px;
+    display: flex;
+    align-content: flex-end;
+    background-color: dodgerblue;
+    color: white;
+    line-height: 10px;
+}
+
+.hp {
+    position: relative;
+    left: 50px;
+}
+
+main {
+    padding: 30px;
+}
+
+.pres {
+    display: flex;
+    justify-content: flex-start;
+    line-height: 0;
+}
+
+.web {
+    display: flex;
+    justify-content: flex-start;
+    line-height: 0;
+}
+
+.new {
+    display: flex;
+    justify-content: flex-start;
+    line-height: 0;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.form {
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+}
+
+.h4 {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    color: black;
+    background-color: black;
+}
+
+button {
+    background-color: cornflowerblue;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: 1em;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+footer {
+    padding: 30px;
+    justify-self: space-between;
+    background-color: grey;
+    color: white;
+}
+
+.Contacts {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.pp {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
